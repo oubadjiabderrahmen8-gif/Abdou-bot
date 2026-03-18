@@ -24,11 +24,11 @@ function addLog(array, message) {
 
 // Random messages for the 8-minute timer
 const afkMessages = [
-    "Just wandering around the area...",
-    "Doing my anti-afk stretches.",
-    "Keeping these chunks loaded! 🚀",
-    "Checking out the scenery.",
-    "Bot is still alive and kicking.",
+    "afk.",
+    "ok.",
+    "heyyy",
+    "no",
+    "still alive and kicking.",
     "Taking a quick look around.",
     "Mining, crafting, and mostly just standing here."
 ];
