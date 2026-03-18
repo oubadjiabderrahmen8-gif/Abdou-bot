@@ -1,7 +1,7 @@
 {
-  "name": "mhmdazizi-bot-dashboard",
+  "name": "mhmdazizi-bot",
   "version": "1.0.0",
-  "description": "Mineflayer bot with web dashboard for Render.com",
+  "description": "Minecraft Anti-AFK Bot with Dashboard",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
