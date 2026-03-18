@@ -1,7 +1,7 @@
 {
-  "name": "mhmdazizi-bot",
-  "version": "1.0.0",
-  "description": "Minecraft Anti-AFK Bot with Dashboard",
+  "name": "abdou-pro-bot",
+  "version": "1.1.0",
+  "description": "Premium Anti-AFK Minecraft Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
