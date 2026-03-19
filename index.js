@@ -6,7 +6,7 @@ const options = {
   host: 'mathcrafters.aternos.me',
   port: 12030,
   username: 'abdou_bot',
-  version: '1.21.1'
+  version: '1.20.1'
 }
 
 // --- BOT STATE & MEMORY ---
