@@ -5,7 +5,7 @@ const url = require('url')
 const options = {
   host: 'mathcrafters.aternos.me',
   port: 12030,
-  username: 'abdou_bot',
+  username: 'ABDOU_PRO',
   version: '1.20.1'
 }
 
